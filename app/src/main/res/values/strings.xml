@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Bug</string>
+    <string name="text1">Must be 333dp</string>
+</resources>
